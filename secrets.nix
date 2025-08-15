@@ -1,10 +1,12 @@
 let
   hosts = [
     "sakurasou"
+    "miyabi"
   ];
 
   users = [
     "aiz_sakurasou"
+    "aiz_miyabi"
   ];
 
    systemKeys = builtins.map (host: builtins.readFile ./publicKeys/root_${host}.pub) hosts;
