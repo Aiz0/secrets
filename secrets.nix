@@ -17,4 +17,5 @@ let
    "tailscale/caddyAuth.age".publicKeys = keys;
    "arr/radarrApiKey.age".publicKeys = keys;
    "arr/sonarrApiKey.age".publicKeys = keys;
+   "kavita/tokenKey.age".publicKeys = keys;
  }
