@@ -18,4 +18,5 @@ let
    "arr/radarrApiKey.age".publicKeys = keys;
    "arr/sonarrApiKey.age".publicKeys = keys;
    "kavita/tokenKey.age".publicKeys = keys;
+   "git/workConfig.age".publicKeys = keys;
  }
