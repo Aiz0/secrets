@@ -1,6 +1,7 @@
 let
   hosts = [
     "frieren"
+    "holo"
     "miyabi"
     "sakurasou"
   ];
@@ -21,4 +22,5 @@ let
    "arr/sonarrApiKey.age".publicKeys = keys;
    "kavita/tokenKey.age".publicKeys = keys;
    "git/workConfig.age".publicKeys = keys;
+   "pds/holo.age".publicKeys = keys;
  }
