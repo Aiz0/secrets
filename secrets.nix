@@ -18,6 +18,9 @@ let
  in {
    "tailscale/auth.age".publicKeys = keys;
    "tailscale/caddyAuth.age".publicKeys = keys;
+   "arr/bazarrApiKey.age".publicKeys = keys;
+   "arr/lidarrApiKey.age".publicKeys = keys;
+   "arr/prowlarrApiKey.age".publicKeys = keys;
    "arr/radarrApiKey.age".publicKeys = keys;
    "arr/sonarrApiKey.age".publicKeys = keys;
    "kavita/tokenKey.age".publicKeys = keys;
