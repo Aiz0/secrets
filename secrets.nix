@@ -26,4 +26,5 @@ let
    "kavita/tokenKey.age".publicKeys = keys;
    "git/workConfig.age".publicKeys = keys;
    "pds/holo.age".publicKeys = keys;
+   "grafana/secretKey.age".publicKeys = keys;
  }
