@@ -28,4 +28,5 @@ in {
   "pds/holo.age".publicKeys = keys;
   "grafana/secretKey.age".publicKeys = keys;
   "multiScrobbler/environment.age".publicKeys = keys;
+  "acme/environment.age".publicKeys = keys;
 }
