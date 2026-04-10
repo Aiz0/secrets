@@ -24,6 +24,7 @@ in {
   "arr/radarrApiKey.age".publicKeys = keys;
   "arr/sonarrApiKey.age".publicKeys = keys;
   "kavita/tokenKey.age".publicKeys = keys;
+  "komf/environment.age".publicKeys = keys;
   "git/workConfig.age".publicKeys = keys;
   "pds/holo.age".publicKeys = keys;
   "grafana/secretKey.age".publicKeys = keys;
