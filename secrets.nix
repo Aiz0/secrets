@@ -27,6 +27,7 @@ in {
   "komf/environment.age".publicKeys = keys;
   "git/workConfig.age".publicKeys = keys;
   "pds/holo.age".publicKeys = keys;
+  "slskd/environment.age".publicKeys = keys;
   "grafana/secretKey.age".publicKeys = keys;
   "multiScrobbler/environment.age".publicKeys = keys;
   "acme/njallaCredential.age".publicKeys = keys;
